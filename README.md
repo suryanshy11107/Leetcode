@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/suryanshy11107/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/suryanshy11107/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/suryanshy11107/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suryanshy11107/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suryanshy11107/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/suryanshy11107/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/suryanshy11107/Leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/suryanshy11107/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/suryanshy11107/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Tree
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/suryanshy11107/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/suryanshy11107/Leetcode/tree/master/0437-path-sum-iii) |
 | [0814-binary-tree-pruning](https://github.com/suryanshy11107/Leetcode/tree/master/0814-binary-tree-pruning) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/suryanshy11107/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/suryanshy11107/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/suryanshy11107/Leetcode/tree/master/0437-path-sum-iii) |
 | [0814-binary-tree-pruning](https://github.com/suryanshy11107/Leetcode/tree/master/0814-binary-tree-pruning) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/suryanshy11107/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Binary Tree
 |  |
 | ------- |
@@ -74,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/suryanshy11107/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/suryanshy11107/Leetcode/tree/master/0437-path-sum-iii) |
 | [0814-binary-tree-pruning](https://github.com/suryanshy11107/Leetcode/tree/master/0814-binary-tree-pruning) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/suryanshy11107/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Two Pointers
 |  |
 | ------- |
