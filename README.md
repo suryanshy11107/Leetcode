@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/suryanshy11107/Leetcode/tree/master/0437-path-sum-iii) |
 | [0814-binary-tree-pruning](https://github.com/suryanshy11107/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/suryanshy11107/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
+| [3310-remove-methods-from-project](https://github.com/suryanshy11107/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -136,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/suryanshy11107/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/suryanshy11107/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/suryanshy11107/Leetcode/tree/master/1406-stone-game-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/suryanshy11107/Leetcode/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/suryanshy11107/Leetcode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
