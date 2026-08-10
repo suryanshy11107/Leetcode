@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/suryanshy11107/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/suryanshy11107/Leetcode/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suryanshy11107/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/suryanshy11107/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/suryanshy11107/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/suryanshy11107/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/suryanshy11107/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/suryanshy11107/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0486-predict-the-winner](https://github.com/suryanshy11107/Leetcode/tree/master/0486-predict-the-winner) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/suryanshy11107/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -178,4 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/suryanshy11107/Leetcode/tree/master/1140-stone-game-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/suryanshy11107/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+## Simulation
+|  |
+| ------- |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/suryanshy11107/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
