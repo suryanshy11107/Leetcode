@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/suryanshy11107/Leetcode/tree/master/0486-predict-the-winner) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/suryanshy11107/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suryanshy11107/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0848-shifting-letters](https://github.com/suryanshy11107/Leetcode/tree/master/0848-shifting-letters) |
 | [0877-stone-game](https://github.com/suryanshy11107/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/suryanshy11107/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/suryanshy11107/Leetcode/tree/master/1406-stone-game-iii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/suryanshy11107/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/suryanshy11107/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0848-shifting-letters](https://github.com/suryanshy11107/Leetcode/tree/master/0848-shifting-letters) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/suryanshy11107/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suryanshy11107/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suryanshy11107/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0848-shifting-letters](https://github.com/suryanshy11107/Leetcode/tree/master/0848-shifting-letters) |
 | [1140-stone-game-ii](https://github.com/suryanshy11107/Leetcode/tree/master/1140-stone-game-ii) |
 ## Zero-Sum Game
 |  |
