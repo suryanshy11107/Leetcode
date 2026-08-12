@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/suryanshy11107/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/suryanshy11107/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/suryanshy11107/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2381-shifting-letters-ii](https://github.com/suryanshy11107/Leetcode/tree/master/2381-shifting-letters-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suryanshy11107/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suryanshy11107/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/suryanshy11107/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0848-shifting-letters](https://github.com/suryanshy11107/Leetcode/tree/master/0848-shifting-letters) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/suryanshy11107/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
+| [2381-shifting-letters-ii](https://github.com/suryanshy11107/Leetcode/tree/master/2381-shifting-letters-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suryanshy11107/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suryanshy11107/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/suryanshy11107/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0848-shifting-letters](https://github.com/suryanshy11107/Leetcode/tree/master/0848-shifting-letters) |
 | [1140-stone-game-ii](https://github.com/suryanshy11107/Leetcode/tree/master/1140-stone-game-ii) |
+| [2381-shifting-letters-ii](https://github.com/suryanshy11107/Leetcode/tree/master/2381-shifting-letters-ii) |
 ## Zero-Sum Game
 |  |
 | ------- |
