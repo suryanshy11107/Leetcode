@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/suryanshy11107/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/suryanshy11107/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/suryanshy11107/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/suryanshy11107/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/suryanshy11107/Leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/suryanshy11107/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2381-shifting-letters-ii](https://github.com/suryanshy11107/Leetcode/tree/master/2381-shifting-letters-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/suryanshy11107/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/suryanshy11107/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/suryanshy11107/Leetcode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/suryanshy11107/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/suryanshy11107/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suryanshy11107/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/suryanshy11107/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/suryanshy11107/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/suryanshy11107/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/suryanshy11107/Leetcode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/suryanshy11107/Leetcode/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/suryanshy11107/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/suryanshy11107/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/suryanshy11107/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/suryanshy11107/Leetcode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/suryanshy11107/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/suryanshy11107/Leetcode/tree/master/2029-stone-game-ix) |
 ## Breadth-First Search
 |  |
