@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/suryanshy11107/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/suryanshy11107/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/suryanshy11107/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/suryanshy11107/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/suryanshy11107/Leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/suryanshy11107/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2381-shifting-letters-ii](https://github.com/suryanshy11107/Leetcode/tree/master/2381-shifting-letters-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/suryanshy11107/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/suryanshy11107/Leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/suryanshy11107/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/suryanshy11107/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/suryanshy11107/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/suryanshy11107/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suryanshy11107/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/suryanshy11107/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/suryanshy11107/Leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/suryanshy11107/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/suryanshy11107/Leetcode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/suryanshy11107/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/suryanshy11107/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/suryanshy11107/Leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/suryanshy11107/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/suryanshy11107/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/suryanshy11107/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/suryanshy11107/Leetcode/tree/master/2029-stone-game-ix) |
 ## Breadth-First Search
@@ -215,17 +219,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/suryanshy11107/Leetcode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/suryanshy11107/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/suryanshy11107/Leetcode/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0848-shifting-letters](https://github.com/suryanshy11107/Leetcode/tree/master/0848-shifting-letters) |
 | [1140-stone-game-ii](https://github.com/suryanshy11107/Leetcode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/suryanshy11107/Leetcode/tree/master/1872-stone-game-viii) |
 | [2381-shifting-letters-ii](https://github.com/suryanshy11107/Leetcode/tree/master/2381-shifting-letters-ii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/suryanshy11107/Leetcode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/suryanshy11107/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/suryanshy11107/Leetcode/tree/master/2029-stone-game-ix) |
 ## Bit Manipulation
 |  |
